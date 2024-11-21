@@ -22,3 +22,12 @@ The 8 files are capable on working on their own too.
 2. It has an option to show comparision between all 6 of them at one.
 3. 4 different types of sorting algorithms are taken into consideration and can be compared at once.
 4. User friendly code with minimal technicalities.
+
+# 💡Future plans
+1. Looking forward to increase the number 9f algorithms and show minor differences too.
+2. Also plan on making a website which will help user easy acces to the stuff.
+3. Still working on some features like different types of graph and dynamic features.
+
+# 🙌Special thanks to
+1. Teachers who guided me through
+2. Online platforms which helped in several informations.
