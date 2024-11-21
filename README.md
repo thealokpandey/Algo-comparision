@@ -5,14 +5,10 @@ Aim: To find the acuracy of the time complexity formula and understand the trend
 
 # 🔤Programming languages:-
 ➡️python:
-
-a. matplotlib
-
-b. time
-
-c. numpy
-
-d. random
+1. matplotlib
+2. time
+3. numpy
+4. random
 
 # 🧑‍💻Working
 There are in total 9 files, out of which the main.py is the head file which helps in calling all the rest file as per the choice of user.
