@@ -5,8 +5,12 @@ Aim: To find the acuracy of the time complexity formula and understand the trend
 
 # 🔤Programming languages:-
 ➡️python:
+
 a. matplotlib
+
 b. time
+
 c. numpy
+
 d. random
 
