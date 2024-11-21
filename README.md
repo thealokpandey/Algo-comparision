@@ -1,2 +1,4 @@
 # Algo-comparision
-This project will showcase the real execution time vs the theoritical time complexity of different algorithm. 
+Description: This project will showcase the real execution time vs the theoritical time complexity of different algorithm. 
+
+Aim: To find the acuracy of the time complexity formula and understand the trend.
