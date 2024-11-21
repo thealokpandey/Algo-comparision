@@ -23,6 +23,12 @@ The 8 files are capable on working on their own too.
 3. 4 different types of sorting algorithms are taken into consideration and can be compared at once.
 4. User friendly code with minimal technicalities.
 
+# 🌐Usage
+1. Download all the files
+2. Make sure you have updated version of python and installed the modules mentioned above.
+3. Open main.py and run it
+4. Make your choice and learn.
+
 # 💡Future plans
 1. Looking forward to increase the number 9f algorithms and show minor differences too.
 2. Also plan on making a website which will help user easy acces to the stuff.
