@@ -30,7 +30,7 @@ The 8 files are capable on working on their own too.
 4. Make your choice and learn.
 
 # 💡Future plans
-1. Looking forward to increase the number 9f algorithms and show minor differences too.
+1. Looking forward to increase the number of algorithms and show minor differences too.
 2. Also plan on making a website which will help user easy acces to the stuff.
 3. Still working on some features like different types of graph and dynamic features.
 
